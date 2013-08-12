@@ -13,7 +13,11 @@ The 'VLBFoundation.xcodeproj' builds a static library 'libVLBFoundation.a'
 
 # Cocoapods
 
-Pending pull request.
+-> VLBFoundation (1.0)
+   A library of classes used throughout the codebase of verylargebox.app
+   - Homepage: https://github.com/qnoid/VLBFoundation
+   - Source:   https://github.com/qnoid/VLBFoundation.git
+   - Versions: 1.0 [master repo]
 
 # Versions
 1.0 initial version. Only macros available.
