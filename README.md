@@ -11,7 +11,7 @@ A collection of macro definitions, including the one to use when creating a [reu
 * VLBFoundation
 The 'VLBFoundation.xcodeproj' builds a static library 'libVLBFoundation.a'
 
-# Cocoapods
+# CocoaPods
 
 -> VLBFoundation (1.0)
    A library of classes used throughout the codebase of verylargebox.app
